@@ -17,7 +17,6 @@ class HomeScreen extends StatelessWidget {
         ),
       ),
 
-      // ⭐ Botão no canto inferior direito
       floatingActionButton: FloatingActionButton(
         onPressed: () {},
         child: const Icon(Icons.star),
